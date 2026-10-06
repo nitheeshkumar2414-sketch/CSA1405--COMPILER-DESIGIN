@@ -64,4 +64,8 @@ int main()
     printf("\nTotal number of characters: %d", characters);
 
     return 0;
-}<img width="442" height="438" alt="Screenshot 2026-10-01 140100" src="https://github.com/user-attachments/assets/d16c12a0-abeb-4536-b264-735b86b364bc" />
+    
+}
+OUTPUT:
+
+<img width="442" height="438" alt="Screenshot 2026-10-01 140100" src="https://github.com/user-attachments/assets/d16c12a0-abeb-4536-b264-735b86b364bc" />
