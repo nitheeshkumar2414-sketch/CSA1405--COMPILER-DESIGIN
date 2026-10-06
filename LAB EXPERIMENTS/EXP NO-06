@@ -38,4 +38,9 @@ int main()
         printf("Not a valid identifier\n");
 
     return 0;
-}<img width="342" height="163" alt="Screenshot 2026-10-01 140424" src="https://github.com/user-attachments/assets/c325f662-74c3-4970-8123-39f233abac40" />
+    
+}
+
+OUTPUT:
+
+<img width="342" height="163" alt="Screenshot 2026-10-01 140424" src="https://github.com/user-attachments/assets/c325f662-74c3-4970-8123-39f233abac40" />
